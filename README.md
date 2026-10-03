@@ -10,7 +10,7 @@ Year: from the site's corpus record (JSON-LD `datePublished`) where one exists, 
 | # | Title | Project | Year | Link |
 |---|---|---|---|---|
 | 1 | ShoCard — White Paper | ShoCard | 2016 † | [PDF](https://blockchainlab.com/pdf/2016-05-00-idm-ShoCard-travel-identity-of-the-future.pdf) |
-| 2 | Finance and Economics Discussion Series — Divisions of Research & Statistics and Monetary. | Finance and Economics Discussion Series |  | [PDF](https://blockchainlab.com/pdf/2016095pap.pdf) ⚠️ HTTP None |
+| 2 | Finance and Economics Discussion Series — Divisions of Research & Statistics and Monetary. | Finance and Economics Discussion Series |  | [PDF](https://blockchainlab.com/pdf/2016095pap.pdf) |
 | 3 | Blockchain Technologies — A whitepaper discussing. | Blockchain Technologies |  | [PDF](https://blockchainlab.com/pdf/3-47-whitepaperblockchainforclaims_v10.pdf) |
 | 4 | Hewlett Packard — Blockchain in the financial services industry | Hewlett Packard |  | [PDF](https://blockchainlab.com/pdf/4AA6-5864ENW.pdf) |
 | 5 | Hawk — The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts | Hawk |  | [PDF](https://blockchainlab.com/pdf/675.pdf) |
@@ -18,9 +18,9 @@ Year: from the site's corpus record (JSON-LD `datePublished`) where one exists, 
 | 7 | BlockChain Technology — To banking and financial sector in india | BlockChain Technology |  | [PDF](https://blockchainlab.com/pdf/BCT.pdf) |
 | 8 | Bitcoin: A Peer-to-Peer Electronic Cash System | Bitcoin | 2008 | [PDF](https://blockchainlab.com/pdf/bitcoin.pdf) · [record](https://blockchainlab.com/research/corpus/papers/bitcoin) |
 | 9 | Digital Assets on Public Blockchains — White Paper | Digital Assets on Public Blockchains |  | [PDF](https://blockchainlab.com/pdf/bitfury-digital_assets_on_public_blockchains-1.pdf) |
-| 10 | TATA — Blockchain for the Internet of Things | TATA |  | [PDF](https://blockchainlab.com/pdf/Blockchain%20for%20the%20IoT.pdf) ⚠️ HTTP None |
-| 11 | Blockchain — In Capital Markets | Blockchain |  | [PDF](https://blockchainlab.com/pdf/BlockChain-In-Capital-Markets.pdf) ⚠️ HTTP None |
-| 12 | #MTFLabs:Blockchain — Whitepaper | #MTFLabs:Blockchain |  | [PDF](https://blockchainlab.com/pdf/Blockchain-Whitepaper.pdf) ⚠️ HTTP None |
+| 10 | TATA — Blockchain for the Internet of Things | TATA |  | [PDF](https://blockchainlab.com/pdf/Blockchain%20for%20the%20IoT.pdf) |
+| 11 | Blockchain — In Capital Markets | Blockchain |  | [PDF](https://blockchainlab.com/pdf/BlockChain-In-Capital-Markets.pdf) |
+| 12 | #MTFLabs:Blockchain — Whitepaper | #MTFLabs:Blockchain |  | [PDF](https://blockchainlab.com/pdf/Blockchain-Whitepaper.pdf) |
 | 13 | BlockChain Technology — Beyond Bitcoin | BlockChain Technology |  | [PDF](https://blockchainlab.com/pdf/BlockchainPaper.pdf) |
 | 14 | Blockchain’s — Driving the Next Wave of Innovation | Blockchain’s |  | [PDF](https://blockchainlab.com/pdf/blockchains-smart-contracts-driving-the-next-wave-of-innovation-across-manufacturing-value-chains-codex2113.pdf) |
 | 15 | Blockfreight — The blockchain for global freight. | Blockfreight |  | [PDF](https://blockchainlab.com/pdf/BlockfreightWhitepaperFinalDraft.pdf) |
@@ -29,22 +29,22 @@ Year: from the site's corpus record (JSON-LD `datePublished`) where one exists, 
 | 18 | Dash: A Privacy-Centric Cryptocurrency | Dash |  | [PDF](https://blockchainlab.com/pdf/Dash-WhitepaperV1.pdf) · [record](https://blockchainlab.com/research/corpus/papers/dash) |
 | 19 | Decent — Whitepaper | Decent |  | [PDF](https://blockchainlab.com/pdf/decent-whitepaper.pdf) |
 | 20 | Dragonfly Fintech — Blockchain Technology A New Paradigm | Dragonfly Fintech |  | [PDF](https://blockchainlab.com/pdf/DF_Paper.pdf) |
-| 21 | The Digital Asset Platform — Non-technical White Paper | The Digital Asset Platform |  | [PDF](https://blockchainlab.com/pdf/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf) ⚠️ HTTP None |
+| 21 | The Digital Asset Platform — Non-technical White Paper | The Digital Asset Platform |  | [PDF](https://blockchainlab.com/pdf/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf) |
 | 22 | World Economic Forum — White Paper | World Economic Forum |  | [PDF](https://blockchainlab.com/pdf/digital-enterprise-narrative-final-january-2016.pdf) |
 | 23 | JPX — Applicability of Distributed Ledger Technology to Capital Market Infrastructure | JPX |  | [PDF](https://blockchainlab.com/pdf/E_JPX_working_paper_No15.pdf) |
 | 24 | ECOMP — (Enhanced Control, Orchestration, Management & Policy) Architecture White Paper | ECOMP |  | [PDF](https://blockchainlab.com/pdf/ecomp.pdf) |
 | 25 | Embracing Disruption — Tapping the potential of distributed | Embracing Disruption |  | [PDF](https://blockchainlab.com/pdf/embracing%20disruption%20white%20paper_final_jan-16.pdf) |
 | 26 | Proving Ethereum for the Clearing Use Case — Emerald Performance Testing Technical Paper | Proving Ethereum for the Clearing Use Case |  | [PDF](https://blockchainlab.com/pdf/emeraldTechnicalPaper.pdf) |
 | 27 | Equibit — A Peer-to-Peer Electronic Equity System | Equibit |  | [PDF](https://blockchainlab.com/pdf/equibit.pdf) |
-| 28 | Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform | Ethereum | 2014 | [PDF](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) · [record](https://blockchainlab.com/research/corpus/papers/ethereum) ⚠️ HTTP None |
+| 28 | Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform | Ethereum | 2014 | [PDF](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) · [record](https://blockchainlab.com/research/corpus/papers/ethereum) |
 | 29 | ETLA — White Paper | ETLA |  | [PDF](https://blockchainlab.com/pdf/ETLA-Working-Papers-38.pdf) |
 | 30 | Filament Foundations — White Paper | Filament Foundations |  | [PDF](https://blockchainlab.com/pdf/Filament%20Foundations.pdf) |
 | 31 | Filecoin: A Cryptocurrency Operated File Storage Network | Filecoin | 2014 | [PDF](https://blockchainlab.com/pdf/filecoin.pdf) · [record](https://blockchainlab.com/research/corpus/papers/filecoin-2014) |
 | 32 | Finra — Distributed Ledger Technology: Implications of Blockchain for the Securities Industry1 | Finra |  | [PDF](https://blockchainlab.com/pdf/FINRA_Blockchain_Report.pdf) |
 | 33 | Gnosis | Gnosis |  | [PDF](https://blockchainlab.com/pdf/gnosis_whitepaper.pdf) · [record](https://blockchainlab.com/research/corpus/papers/gnosis) |
-| 34 | Heat Ledger — Heuristically Enhanced Asynchronous Transactions | Heat Ledger |  | [PDF](https://blockchainlab.com/pdf/HEATWhitepaper.pdf) ⚠️ HTTP None |
+| 34 | Heat Ledger — Heuristically Enhanced Asynchronous Transactions | Heat Ledger |  | [PDF](https://blockchainlab.com/pdf/HEATWhitepaper.pdf) |
 | 35 | Adel — White Paper | Adel |  | [PDF](https://blockchainlab.com/pdf/ico-terms.pdf) |
-| 36 | Blockchain — een uitwerking van nieuw denken | Blockchain |  | [PDF](https://blockchainlab.com/pdf/ICTU_Whitepaper_Blockchain.pdf) ⚠️ HTTP None |
+| 36 | Blockchain — een uitwerking van nieuw denken | Blockchain |  | [PDF](https://blockchainlab.com/pdf/ICTU_Whitepaper_Blockchain.pdf) |
 | 37 | A Protocol for Interledger Payments | A Protocol for Interledger Payments | 2015 | [PDF](https://blockchainlab.com/pdf/interledger.pdf) · [record](https://blockchainlab.com/research/corpus/papers/interledger) |
 | 38 | An Introduction to Bitcoin and Blockchain Technology — Whitepaper | An Introduction to Bitcoin and Blockchain Technology |  | [PDF](https://blockchainlab.com/pdf/IntrotoBitcoinandBlockchainTechnology.pdf) |
 | 39 | Kadena: The first scalable, high performance private blockchain | Kadena | 2016 | [PDF](https://blockchainlab.com/pdf/Kadena-ConsensusWhitePaper-Aug2016.pdf) · [record](https://blockchainlab.com/research/corpus/papers/kadena-2016) |

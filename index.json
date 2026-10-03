@@ -23,7 +23,7 @@
    "file": "2016095pap.pdf",
    "url": "https://blockchainlab.com/pdf/2016095pap.pdf",
    "corpus_record": "",
-   "http_status": null,
+   "http_status": 200,
    "is_pdf": false
   },
   {
@@ -119,7 +119,7 @@
    "file": "Blockchain for the IoT.pdf",
    "url": "https://blockchainlab.com/pdf/Blockchain%20for%20the%20IoT.pdf",
    "corpus_record": "",
-   "http_status": null,
+   "http_status": 200,
    "is_pdf": false
   },
   {
@@ -131,7 +131,7 @@
    "file": "BlockChain-In-Capital-Markets.pdf",
    "url": "https://blockchainlab.com/pdf/BlockChain-In-Capital-Markets.pdf",
    "corpus_record": "",
-   "http_status": null,
+   "http_status": 200,
    "is_pdf": false
   },
   {
@@ -143,7 +143,7 @@
    "file": "Blockchain-Whitepaper.pdf",
    "url": "https://blockchainlab.com/pdf/Blockchain-Whitepaper.pdf",
    "corpus_record": "",
-   "http_status": null,
+   "http_status": 200,
    "is_pdf": false
   },
   {
@@ -251,7 +251,7 @@
    "file": "Digital Asset Platform - Non-technical White Paper.pdf",
    "url": "https://blockchainlab.com/pdf/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf",
    "corpus_record": "",
-   "http_status": null,
+   "http_status": 200,
    "is_pdf": false
   },
   {
@@ -335,7 +335,7 @@
    "file": "Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf",
    "url": "https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf",
    "corpus_record": "https://blockchainlab.com/research/corpus/papers/ethereum",
-   "http_status": null,
+   "http_status": 200,
    "is_pdf": false
   },
   {
@@ -407,7 +407,7 @@
    "file": "HEATWhitepaper.pdf",
    "url": "https://blockchainlab.com/pdf/HEATWhitepaper.pdf",
    "corpus_record": "",
-   "http_status": null,
+   "http_status": 200,
    "is_pdf": false
   },
   {
@@ -431,7 +431,7 @@
    "file": "ICTU_Whitepaper_Blockchain.pdf",
    "url": "https://blockchainlab.com/pdf/ICTU_Whitepaper_Blockchain.pdf",
    "corpus_record": "",
-   "http_status": null,
+   "http_status": 200,
    "is_pdf": false
   },
   {

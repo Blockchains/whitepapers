@@ -1,6 +1,6 @@
 title,project,year,year_source,authors,file,url,corpus_record,http_status,is_pdf
 ShoCard — White Paper,ShoCard,2016,filename,,2016-05-00-idm-ShoCard-travel-identity-of-the-future.pdf,https://blockchainlab.com/pdf/2016-05-00-idm-ShoCard-travel-identity-of-the-future.pdf,,200,False
-Finance and Economics Discussion Series — Divisions of Research & Statistics and Monetary.,Finance and Economics Discussion Series,,,,2016095pap.pdf,https://blockchainlab.com/pdf/2016095pap.pdf,,,False
+Finance and Economics Discussion Series — Divisions of Research & Statistics and Monetary.,Finance and Economics Discussion Series,,,,2016095pap.pdf,https://blockchainlab.com/pdf/2016095pap.pdf,,200,False
 Blockchain Technologies — A whitepaper discussing.,Blockchain Technologies,,,,3-47-whitepaperblockchainforclaims_v10.pdf,https://blockchainlab.com/pdf/3-47-whitepaperblockchainforclaims_v10.pdf,,200,False
 Hewlett Packard — Blockchain in the financial services industry,Hewlett Packard,,,,4AA6-5864ENW.pdf,https://blockchainlab.com/pdf/4AA6-5864ENW.pdf,,200,False
 Hawk — The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts,Hawk,,,,675.pdf,https://blockchainlab.com/pdf/675.pdf,,200,False
@@ -8,9 +8,9 @@ Blockchain — Powering the Internet of Value,Blockchain,,,,bank-2020---blockcha
 BlockChain Technology — To banking and financial sector in india,BlockChain Technology,,,,BCT.pdf,https://blockchainlab.com/pdf/BCT.pdf,,200,False
 Bitcoin: A Peer-to-Peer Electronic Cash System,Bitcoin,2008,corpus record,,bitcoin.pdf,https://blockchainlab.com/pdf/bitcoin.pdf,https://blockchainlab.com/research/corpus/papers/bitcoin,200,False
 Digital Assets on Public Blockchains — White Paper,Digital Assets on Public Blockchains,,,,bitfury-digital_assets_on_public_blockchains-1.pdf,https://blockchainlab.com/pdf/bitfury-digital_assets_on_public_blockchains-1.pdf,,200,False
-TATA — Blockchain for the Internet of Things,TATA,,,,Blockchain for the IoT.pdf,https://blockchainlab.com/pdf/Blockchain%20for%20the%20IoT.pdf,,,False
-Blockchain — In Capital Markets,Blockchain,,,,BlockChain-In-Capital-Markets.pdf,https://blockchainlab.com/pdf/BlockChain-In-Capital-Markets.pdf,,,False
-#MTFLabs:Blockchain — Whitepaper,#MTFLabs:Blockchain,,,,Blockchain-Whitepaper.pdf,https://blockchainlab.com/pdf/Blockchain-Whitepaper.pdf,,,False
+TATA — Blockchain for the Internet of Things,TATA,,,,Blockchain for the IoT.pdf,https://blockchainlab.com/pdf/Blockchain%20for%20the%20IoT.pdf,,200,False
+Blockchain — In Capital Markets,Blockchain,,,,BlockChain-In-Capital-Markets.pdf,https://blockchainlab.com/pdf/BlockChain-In-Capital-Markets.pdf,,200,False
+#MTFLabs:Blockchain — Whitepaper,#MTFLabs:Blockchain,,,,Blockchain-Whitepaper.pdf,https://blockchainlab.com/pdf/Blockchain-Whitepaper.pdf,,200,False
 BlockChain Technology — Beyond Bitcoin,BlockChain Technology,,,,BlockchainPaper.pdf,https://blockchainlab.com/pdf/BlockchainPaper.pdf,,200,False
 Blockchain’s — Driving the Next Wave of Innovation,Blockchain’s,,,,blockchains-smart-contracts-driving-the-next-wave-of-innovation-across-manufacturing-value-chains-codex2113.pdf,https://blockchainlab.com/pdf/blockchains-smart-contracts-driving-the-next-wave-of-innovation-across-manufacturing-value-chains-codex2113.pdf,,200,False
 Blockfreight — The blockchain for global freight.,Blockfreight,,,,BlockfreightWhitepaperFinalDraft.pdf,https://blockchainlab.com/pdf/BlockfreightWhitepaperFinalDraft.pdf,,200,False
@@ -19,22 +19,22 @@ Corda: An Introduction,Corda,2016,corpus record,"Richard Gendal Brown, James Car
 Dash: A Privacy-Centric Cryptocurrency,Dash,,,"Duffield, Diaz",Dash-WhitepaperV1.pdf,https://blockchainlab.com/pdf/Dash-WhitepaperV1.pdf,https://blockchainlab.com/research/corpus/papers/dash,200,False
 Decent — Whitepaper,Decent,,,,decent-whitepaper.pdf,https://blockchainlab.com/pdf/decent-whitepaper.pdf,,200,False
 Dragonfly Fintech — Blockchain Technology A New Paradigm,Dragonfly Fintech,,,,DF_Paper.pdf,https://blockchainlab.com/pdf/DF_Paper.pdf,,200,False
-The Digital Asset Platform — Non-technical White Paper,The Digital Asset Platform,,,,Digital Asset Platform - Non-technical White Paper.pdf,https://blockchainlab.com/pdf/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf,,,False
+The Digital Asset Platform — Non-technical White Paper,The Digital Asset Platform,,,,Digital Asset Platform - Non-technical White Paper.pdf,https://blockchainlab.com/pdf/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf,,200,False
 World Economic Forum — White Paper,World Economic Forum,,,,digital-enterprise-narrative-final-january-2016.pdf,https://blockchainlab.com/pdf/digital-enterprise-narrative-final-january-2016.pdf,,200,False
 JPX — Applicability of Distributed Ledger Technology to Capital Market Infrastructure,JPX,,,,E_JPX_working_paper_No15.pdf,https://blockchainlab.com/pdf/E_JPX_working_paper_No15.pdf,,200,False
 "ECOMP — (Enhanced Control, Orchestration, Management & Policy) Architecture White Paper",ECOMP,,,,ecomp.pdf,https://blockchainlab.com/pdf/ecomp.pdf,,200,False
 Embracing Disruption — Tapping the potential of distributed,Embracing Disruption,,,,embracing disruption white paper_final_jan-16.pdf,https://blockchainlab.com/pdf/embracing%20disruption%20white%20paper_final_jan-16.pdf,,200,False
 Proving Ethereum for the Clearing Use Case — Emerald Performance Testing Technical Paper,Proving Ethereum for the Clearing Use Case,,,,emeraldTechnicalPaper.pdf,https://blockchainlab.com/pdf/emeraldTechnicalPaper.pdf,,200,False
 Equibit — A Peer-to-Peer Electronic Equity System,Equibit,,,,equibit.pdf,https://blockchainlab.com/pdf/equibit.pdf,,200,False
-Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform,Ethereum,2014,corpus record,,Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf,https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf,https://blockchainlab.com/research/corpus/papers/ethereum,,False
+Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform,Ethereum,2014,corpus record,,Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf,https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf,https://blockchainlab.com/research/corpus/papers/ethereum,200,False
 ETLA — White Paper,ETLA,,,,ETLA-Working-Papers-38.pdf,https://blockchainlab.com/pdf/ETLA-Working-Papers-38.pdf,,200,False
 Filament Foundations — White Paper,Filament Foundations,,,,Filament Foundations.pdf,https://blockchainlab.com/pdf/Filament%20Foundations.pdf,,200,False
 Filecoin: A Cryptocurrency Operated File Storage Network,Filecoin,2014,corpus record,,filecoin.pdf,https://blockchainlab.com/pdf/filecoin.pdf,https://blockchainlab.com/research/corpus/papers/filecoin-2014,200,False
 Finra — Distributed Ledger Technology: Implications of Blockchain for the Securities Industry1,Finra,,,,FINRA_Blockchain_Report.pdf,https://blockchainlab.com/pdf/FINRA_Blockchain_Report.pdf,,200,False
 Gnosis,Gnosis,,,,gnosis_whitepaper.pdf,https://blockchainlab.com/pdf/gnosis_whitepaper.pdf,https://blockchainlab.com/research/corpus/papers/gnosis,200,False
-Heat Ledger — Heuristically Enhanced Asynchronous Transactions,Heat Ledger,,,,HEATWhitepaper.pdf,https://blockchainlab.com/pdf/HEATWhitepaper.pdf,,,False
+Heat Ledger — Heuristically Enhanced Asynchronous Transactions,Heat Ledger,,,,HEATWhitepaper.pdf,https://blockchainlab.com/pdf/HEATWhitepaper.pdf,,200,False
 Adel — White Paper,Adel,,,,ico-terms.pdf,https://blockchainlab.com/pdf/ico-terms.pdf,,200,False
-Blockchain — een uitwerking van nieuw denken,Blockchain,,,,ICTU_Whitepaper_Blockchain.pdf,https://blockchainlab.com/pdf/ICTU_Whitepaper_Blockchain.pdf,,,False
+Blockchain — een uitwerking van nieuw denken,Blockchain,,,,ICTU_Whitepaper_Blockchain.pdf,https://blockchainlab.com/pdf/ICTU_Whitepaper_Blockchain.pdf,,200,False
 A Protocol for Interledger Payments,A Protocol for Interledger Payments,2015,corpus record,"Stefan Thomas, Evan Schwartz",interledger.pdf,https://blockchainlab.com/pdf/interledger.pdf,https://blockchainlab.com/research/corpus/papers/interledger,200,False
 An Introduction to Bitcoin and Blockchain Technology — Whitepaper,An Introduction to Bitcoin and Blockchain Technology,,,,IntrotoBitcoinandBlockchainTechnology.pdf,https://blockchainlab.com/pdf/IntrotoBitcoinandBlockchainTechnology.pdf,,200,False
 "Kadena: The first scalable, high performance private blockchain",Kadena,2016,corpus record,,Kadena-ConsensusWhitePaper-Aug2016.pdf,https://blockchainlab.com/pdf/Kadena-ConsensusWhitePaper-Aug2016.pdf,https://blockchainlab.com/research/corpus/papers/kadena-2016,200,False
