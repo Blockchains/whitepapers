@@ -112,7 +112,14 @@ def main():
         rec_link = f" · [record]({r['corpus_record']})" if r["corpus_record"] else ""
         bad = "" if r["http_status"] == 200 else f" ⚠️ HTTP {r['http_status']}"
         lines.append(f"| {i} | {md(r['title'])} | {md(r['project'])} | {y} | [PDF]({r['url']}){rec_link}{bad} |")
-    lines += ["", "Rights in each paper remain with its authors/publishers. This repository only lists links."]
+    lines += ["", "Rights in each paper remain with its authors/publishers. This repository only lists links.", "",
+              "## Rebuild", "", "Python 3 standard library only; no configuration or keys:", "", "```bash",
+              "python3 scripts/build_index.py   # rewrites index.json, index.csv and README.md", "```", "",
+              "Example: `curl -s https://raw.githubusercontent.com/Blockchains/whitepapers/main/index.json`", "",
+              "## Licence", "", "No licence file has been added for the index scripts yet. The papers are not hosted here.", "",
+              "## Contributing", "",
+              "Issues and pull requests are welcome. Please read the [contributing guide](https://github.com/Blockchains/.github/blob/main/CONTRIBUTING.md) first.", "",
+              "---", "Built by Blockchain Lab — [blockchainlab.com](https://blockchainlab.com/?utm_source=github&utm_medium=readme&utm_campaign=whitepapers)"]
     open("README.md", "w").write("\n".join(lines) + "\n")
     print(f"{len(rows)} papers; with year {sum(1 for r in rows if r['year'])}; non-200 {sum(1 for r in rows if r['http_status'] != 200)}")
 

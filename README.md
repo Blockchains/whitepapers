@@ -90,3 +90,24 @@ Year: from the site's corpus record (JSON-LD `datePublished`) where one exists, 
 | 79 | Æternity blockchain — The trustless, decentralized and purely functional oracle machine | Æternity blockchain |  | [PDF](https://blockchainlab.com/pdf/%C3%A6ternity-blockchain-whitepaper.pdf) |
 
 Rights in each paper remain with its authors/publishers. This repository only lists links.
+
+## Rebuild
+
+Python 3 standard library only; no configuration or keys:
+
+```bash
+python3 scripts/build_index.py   # rewrites index.json, index.csv and README.md
+```
+
+Example: `curl -s https://raw.githubusercontent.com/Blockchains/whitepapers/main/index.json`
+
+## Licence
+
+No licence file has been added for the index scripts yet. The papers are not hosted here.
+
+## Contributing
+
+Issues and pull requests are welcome. Please read the [contributing guide](https://github.com/Blockchains/.github/blob/main/CONTRIBUTING.md) first.
+
+---
+Built by Blockchain Lab — [blockchainlab.com](https://blockchainlab.com/?utm_source=github&utm_medium=readme&utm_campaign=whitepapers)
