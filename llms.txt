@@ -1,0 +1,21 @@
+# whitepapers
+
+> Index of the 79 historic whitepapers in the Blockchain Lab PDF library (Bitcoin, Ethereum, Ripple, Stellar, Corda…) as README table, index.json and index.csv; links point at the original files on blockchainlab.com, refreshed weekly.
+
+## Docs
+
+- [README](https://raw.githubusercontent.com/Blockchains/whitepapers/main/README.md): overview, install and the 'Use as a building block' section
+- [AGENTS.md](https://raw.githubusercontent.com/Blockchains/whitepapers/main/AGENTS.md): setup, build/test commands, structure map, conventions and rules for AI coding agents
+- [blocks.json](https://raw.githubusercontent.com/Blockchains/whitepapers/main/blocks.json): machine-readable building-block manifest (entrypoints, inputs, outputs, deps, compatible blocks)
+
+## Key files
+
+- [index.json](https://github.com/Blockchains/whitepapers/blob/main/index.json): data
+- [scripts/build_index.py](https://github.com/Blockchains/whitepapers/blob/main/scripts/build_index.py): generator
+
+## Related
+
+- [Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md): how to assemble projects from Blockchains repos
+- [Org llms.txt](https://blockchains.github.io/llms.txt) · [blocks catalogue](https://blockchains.github.io/blocks.json)
+- [Blockchains/blockchainlab-api](https://github.com/Blockchains/blockchainlab-api): the `whitepapers` dataset covers the larger research corpus (600+)
+- [Blockchains/blockchainlab-mcp](https://github.com/Blockchains/blockchainlab-mcp): `search_whitepapers` tool

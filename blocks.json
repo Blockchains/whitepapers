@@ -1,0 +1,57 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Blockchains/.github/main/docs/blocks.schema.json",
+  "schema_version": "1.0",
+  "name": "whitepapers",
+  "repo": "Blockchains/whitepapers",
+  "summary": "Index of the 79 historic whitepapers in the Blockchain Lab PDF library (Bitcoin, Ethereum, Ripple, Stellar, Corda…) as README table, index.json and index.csv; links point at the original files on blockchainlab.com, refreshed weekly.",
+  "kind": [
+    "dataset",
+    "docs"
+  ],
+  "stability": "stable",
+  "license": "NOASSERTION",
+  "entrypoints": [
+    {
+      "type": "file",
+      "name": "index.json",
+      "ref": "index.json",
+      "usage": "https://raw.githubusercontent.com/Blockchains/whitepapers/main/index.json"
+    },
+    {
+      "type": "file",
+      "name": "index.csv",
+      "ref": "index.csv"
+    }
+  ],
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "papers[]",
+      "type": "JSON",
+      "description": "title, project, year, year_source, url, file, corpus_record, authors, http_status, is_pdf"
+    }
+  ],
+  "deps": [
+    "any JSON/CSV reader"
+  ],
+  "compatible_with": [
+    {
+      "repo": "Blockchains/blockchainlab-api",
+      "how": "the `whitepapers` dataset covers the larger research corpus (600+)"
+    },
+    {
+      "repo": "Blockchains/blockchainlab-mcp",
+      "how": "`search_whitepapers` tool"
+    }
+  ],
+  "tests": {
+    "command": "python3 scripts/build_index.py",
+    "ci": ".github/workflows/refresh-index.yml",
+    "network": true
+  },
+  "docs": {
+    "readme": "README.md",
+    "agents": "AGENTS.md",
+    "llms": "llms.txt"
+  }
+}

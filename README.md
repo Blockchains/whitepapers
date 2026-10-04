@@ -101,6 +101,37 @@ python3 scripts/build_index.py   # rewrites index.json, index.csv and README.md
 
 Example: `curl -s https://raw.githubusercontent.com/Blockchains/whitepapers/main/index.json`
 
+<!-- blocks:start -->
+## Use as a building block
+
+> **For AI agents and builders:** read [`AGENTS.md`](AGENTS.md) (setup, commands, structure, rules), [`llms.txt`](llms.txt) (doc map) and the machine-readable [`blocks.json`](blocks.json) ([schema](https://github.com/Blockchains/.github/blob/main/docs/BLOCKS-SCHEMA.md)). How all Blockchains blocks fit together: **[Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md)** · org catalogue: [https://blockchains.github.io/blocks.json](https://blockchains.github.io/blocks.json).
+
+**What it exports**
+
+| Export | Type | Install / access |
+|---|---|---|
+| `index.json` | file | `https://raw.githubusercontent.com/Blockchains/whitepapers/main/index.json` |
+| `index.csv` | file | `index.csv` |
+
+**Minimal example** (run on 2026-10-04)
+
+```bash
+curl -s https://raw.githubusercontent.com/Blockchains/whitepapers/main/index.json | jq -r '.papers[] | select(.year) | "\(.year) \(.title) \(.url)"' | sort | head
+```
+
+**Inputs → outputs**
+
+- In: none
+- Out: `papers[]` (JSON) title, project, year, year_source, url, file, corpus_record, authors, http_status, is_pdf
+
+**Composes with**
+
+- [Blockchains/blockchainlab-api](https://github.com/Blockchains/blockchainlab-api): the `whitepapers` dataset covers the larger research corpus (600+)
+- [Blockchains/blockchainlab-mcp](https://github.com/Blockchains/blockchainlab-mcp): `search_whitepapers` tool
+
+**Versioning & stability:** `stable`. Weekly regeneration; fields stable. PDFs are never re-hosted here.
+<!-- blocks:end -->
+
 ## Licence
 
 No licence file has been added for the index scripts yet. The papers are not hosted here.
