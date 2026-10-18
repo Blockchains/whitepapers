@@ -16,7 +16,7 @@ Year: from the site's corpus record (JSON-LD `datePublished`) where one exists, 
 | 5 | Hawk — The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts | Hawk |  | [PDF](https://blockchainlab.com/pdf/675.pdf) |
 | 6 | Blockchain — Powering the Internet of Value | Blockchain |  | [PDF](https://blockchainlab.com/pdf/bank-2020---blockchain-powering-the-internet-of-value---whitepaper.pdf) |
 | 7 | BlockChain Technology — To banking and financial sector in india | BlockChain Technology |  | [PDF](https://blockchainlab.com/pdf/BCT.pdf) |
-| 8 | Bitcoin: A Peer-to-Peer Electronic Cash System | Bitcoin | 2008 | [PDF](https://blockchainlab.com/pdf/bitcoin.pdf) · [record](https://blockchainlab.com/research/corpus/papers/bitcoin) |
+| 8 | Bitcoin — A Peer-to-Peer Electronic Cash System | Bitcoin |  | [PDF](https://blockchainlab.com/pdf/bitcoin.pdf) |
 | 9 | Digital Assets on Public Blockchains — White Paper | Digital Assets on Public Blockchains |  | [PDF](https://blockchainlab.com/pdf/bitfury-digital_assets_on_public_blockchains-1.pdf) |
 | 10 | TATA — Blockchain for the Internet of Things | TATA |  | [PDF](https://blockchainlab.com/pdf/Blockchain%20for%20the%20IoT.pdf) |
 | 11 | Blockchain — In Capital Markets | Blockchain |  | [PDF](https://blockchainlab.com/pdf/BlockChain-In-Capital-Markets.pdf) |
@@ -25,8 +25,8 @@ Year: from the site's corpus record (JSON-LD `datePublished`) where one exists, 
 | 14 | Blockchain’s — Driving the Next Wave of Innovation | Blockchain’s |  | [PDF](https://blockchainlab.com/pdf/blockchains-smart-contracts-driving-the-next-wave-of-innovation-across-manufacturing-value-chains-codex2113.pdf) |
 | 15 | Blockfreight — The blockchain for global freight. | Blockfreight |  | [PDF](https://blockchainlab.com/pdf/BlockfreightWhitepaperFinalDraft.pdf) |
 | 16 | ChainDB — A Peer-to-Peer Database System | ChainDB |  | [PDF](https://blockchainlab.com/pdf/chaindb.pdf) |
-| 17 | Corda: An Introduction | Corda | 2016 | [PDF](https://blockchainlab.com/pdf/corda-introductory-whitepaper-final.pdf) · [record](https://blockchainlab.com/research/corpus/papers/corda) |
-| 18 | Dash: A Privacy-Centric Cryptocurrency | Dash |  | [PDF](https://blockchainlab.com/pdf/Dash-WhitepaperV1.pdf) · [record](https://blockchainlab.com/research/corpus/papers/dash) |
+| 17 | Corda — White papers | Corda |  | [PDF](https://blockchainlab.com/pdf/corda-introductory-whitepaper-final.pdf) |
+| 18 | Dash — A Privacy­Centric Crypto­Currency | Dash |  | [PDF](https://blockchainlab.com/pdf/Dash-WhitepaperV1.pdf) |
 | 19 | Decent — Whitepaper | Decent |  | [PDF](https://blockchainlab.com/pdf/decent-whitepaper.pdf) |
 | 20 | Dragonfly Fintech — Blockchain Technology A New Paradigm | Dragonfly Fintech |  | [PDF](https://blockchainlab.com/pdf/DF_Paper.pdf) |
 | 21 | The Digital Asset Platform — Non-technical White Paper | The Digital Asset Platform |  | [PDF](https://blockchainlab.com/pdf/Digital%20Asset%20Platform%20-%20Non-technical%20White%20Paper.pdf) |
@@ -36,48 +36,48 @@ Year: from the site's corpus record (JSON-LD `datePublished`) where one exists, 
 | 25 | Embracing Disruption — Tapping the potential of distributed | Embracing Disruption |  | [PDF](https://blockchainlab.com/pdf/embracing%20disruption%20white%20paper_final_jan-16.pdf) |
 | 26 | Proving Ethereum for the Clearing Use Case — Emerald Performance Testing Technical Paper | Proving Ethereum for the Clearing Use Case |  | [PDF](https://blockchainlab.com/pdf/emeraldTechnicalPaper.pdf) |
 | 27 | Equibit — A Peer-to-Peer Electronic Equity System | Equibit |  | [PDF](https://blockchainlab.com/pdf/equibit.pdf) |
-| 28 | Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform | Ethereum | 2014 | [PDF](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) · [record](https://blockchainlab.com/research/corpus/papers/ethereum) |
+| 28 | Ethereum — A next generation smart contract | Ethereum |  | [PDF](https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) |
 | 29 | ETLA — White Paper | ETLA |  | [PDF](https://blockchainlab.com/pdf/ETLA-Working-Papers-38.pdf) |
 | 30 | Filament Foundations — White Paper | Filament Foundations |  | [PDF](https://blockchainlab.com/pdf/Filament%20Foundations.pdf) |
-| 31 | Filecoin: A Cryptocurrency Operated File Storage Network | Filecoin | 2014 | [PDF](https://blockchainlab.com/pdf/filecoin.pdf) · [record](https://blockchainlab.com/research/corpus/papers/filecoin-2014) |
+| 31 | Filecoin — A Cryptocurrency Operated File Storage Network | Filecoin |  | [PDF](https://blockchainlab.com/pdf/filecoin.pdf) |
 | 32 | Finra — Distributed Ledger Technology: Implications of Blockchain for the Securities Industry1 | Finra |  | [PDF](https://blockchainlab.com/pdf/FINRA_Blockchain_Report.pdf) |
-| 33 | Gnosis | Gnosis |  | [PDF](https://blockchainlab.com/pdf/gnosis_whitepaper.pdf) · [record](https://blockchainlab.com/research/corpus/papers/gnosis) |
+| 33 | Gnosis — White paper | Gnosis |  | [PDF](https://blockchainlab.com/pdf/gnosis_whitepaper.pdf) |
 | 34 | Heat Ledger — Heuristically Enhanced Asynchronous Transactions | Heat Ledger |  | [PDF](https://blockchainlab.com/pdf/HEATWhitepaper.pdf) |
 | 35 | Adel — White Paper | Adel |  | [PDF](https://blockchainlab.com/pdf/ico-terms.pdf) |
 | 36 | Blockchain — een uitwerking van nieuw denken | Blockchain |  | [PDF](https://blockchainlab.com/pdf/ICTU_Whitepaper_Blockchain.pdf) |
-| 37 | A Protocol for Interledger Payments | A Protocol for Interledger Payments | 2015 | [PDF](https://blockchainlab.com/pdf/interledger.pdf) · [record](https://blockchainlab.com/research/corpus/papers/interledger) |
+| 37 | A Protocol for Interledger Payments — White paper | A Protocol for Interledger Payments |  | [PDF](https://blockchainlab.com/pdf/interledger.pdf) |
 | 38 | An Introduction to Bitcoin and Blockchain Technology — Whitepaper | An Introduction to Bitcoin and Blockchain Technology |  | [PDF](https://blockchainlab.com/pdf/IntrotoBitcoinandBlockchainTechnology.pdf) |
-| 39 | Kadena: The first scalable, high performance private blockchain | Kadena | 2016 | [PDF](https://blockchainlab.com/pdf/Kadena-ConsensusWhitePaper-Aug2016.pdf) · [record](https://blockchainlab.com/research/corpus/papers/kadena-2016) |
+| 39 | Kadena — The first scalable, high performance private blockchain | Kadena | 2016 † | [PDF](https://blockchainlab.com/pdf/Kadena-ConsensusWhitePaper-Aug2016.pdf) |
 | 40 | Capgemini — Leveraging Blockchain to Transform Insurance Industry | Capgemini |  | [PDF](https://blockchainlab.com/pdf/leveraging_blockchain_to_transform_insurance_industry_2017_web.pdf) |
 | 41 | MultiChain Blockchain — Dr Gideon Greenspan, Founder and CEO, Coin Sciences Ltd | MultiChain Blockchain |  | [PDF](https://blockchainlab.com/pdf/MultiChain-White-Paper.pdf) |
 | 42 | Blockchain — DECENTRALIZED TRUST | Blockchain |  | [PDF](https://blockchainlab.com/pdf/NaPo_Blockchain_webb.pdf) |
 | 43 | Blockchain Technology — Implications and Opportunities For Professional Engineers | Blockchain Technology |  | [PDF](https://blockchainlab.com/pdf/NSPE-Whitepaper-Blockchain-Technology-2016-final.pdf) |
 | 44 | Open-Transactions — Secure Contracts between Untrusted Parties | Open-Transactions |  | [PDF](https://blockchainlab.com/pdf/open-transactions.pdf) |
 | 45 | Blockchain Innovations — With Pegged Sidechains | Blockchain Innovations |  | [PDF](https://blockchainlab.com/pdf/Paper.pdf) |
-| 46 | Ethereum: A Secure Decentralised Generalised Transaction Ledger (EIP-150 revision) | ETHEREUM | 2016 | [PDF](https://blockchainlab.com/pdf/paper2.pdf) · [record](https://blockchainlab.com/research/corpus/papers/ethereum-yellow-paper) |
-| 47 | PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake | PPCoin | 2012 | [PDF](https://blockchainlab.com/pdf/peercoin-paper.pdf) · [record](https://blockchainlab.com/research/corpus/papers/peercoin) |
+| 46 | ETHEREUM — A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER EIP-150 REVISION | ETHEREUM |  | [PDF](https://blockchainlab.com/pdf/paper2.pdf) |
+| 47 | PPCoin — Peer-to-Peer Crypto-Currency with Proof-of-Stake | PPCoin |  | [PDF](https://blockchainlab.com/pdf/peercoin-paper.pdf) |
 | 48 | Permacoin — Repurposing Bitcoin Work for Data Preservation | Permacoin |  | [PDF](https://blockchainlab.com/pdf/permacoin.pdf) |
 | 49 | Plutus — White Paper | Plutus |  | [PDF](https://blockchainlab.com/pdf/Plutus.it-White-Paper-v1.1.pdf) |
 | 50 | PWC — Blockchain – an opportunity for energy producers and consumers? | PWC |  | [PDF](https://blockchainlab.com/pdf/pwc_blockchain_opportunity_for_energy_producers_and_consumers_en.pdf) |
 | 51 | Blockchain Technology — Possibilities for the U.S.Postal Service | Blockchain Technology |  | [PDF](https://blockchainlab.com/pdf/RARC-WP-16-001.pdf) |
-| 52 | The Ripple Protocol Consensus Algorithm | Ripple Consensus | 2014 | [PDF](https://blockchainlab.com/pdf/ripple_consensus_whitepaper.pdf) · [record](https://blockchainlab.com/research/corpus/papers/ripple-consensus) |
+| 52 | Ripple Consensus — The Ripple Protocol Consensus Algorithm | Ripple Consensus |  | [PDF](https://blockchainlab.com/pdf/ripple_consensus_whitepaper.pdf) |
 | 53 | Imf staff discussion note — Virtual Currencies and Beyond: Initial Considerations | Imf staff discussion note |  | [PDF](https://blockchainlab.com/pdf/sdn1603.pdf) |
 | 54 | A Securities Law Framework for Blockchain Tokens — White Paper | A Securities Law Framework for Blockchain Tokens |  | [PDF](https://blockchainlab.com/pdf/securities-law-framework.pdf) |
 | 55 | Ethereum — A secure decentralised generalised transaction ledger | Ethereum |  | [PDF](https://blockchainlab.com/pdf/sidechains.pdf) |
-| 56 | Enabling Blockchain Innovations with Pegged Sidechains | Enabling Blockchain Innovations with Pegged Sidechains | 2014 | [PDF](https://blockchainlab.com/pdf/sidechains1.pdf) · [record](https://blockchainlab.com/research/corpus/papers/pegged-sidechains) |
-| 57 | The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus | The Stellar Consensus Protoco | 2015 | [PDF](https://blockchainlab.com/pdf/stellar-consensus-protocol.pdf) · [record](https://blockchainlab.com/research/corpus/papers/stellar-consensus) |
-| 58 | Storj: A Peer-to-Peer Cloud Storage Network | Storj |  | [PDF](https://blockchainlab.com/pdf/storj.pdf) · [record](https://blockchainlab.com/research/corpus/papers/storj) |
+| 56 | Enabling Blockchain Innovations with Pegged Sidechains — White Paper | Enabling Blockchain Innovations with Pegged Sidechains |  | [PDF](https://blockchainlab.com/pdf/sidechains1.pdf) |
+| 57 | The Stellar Consensus Protoco — A Federated Model for Internet-level Consensus | The Stellar Consensus Protoco |  | [PDF](https://blockchainlab.com/pdf/stellar-consensus-protocol.pdf) |
+| 58 | Storj — A Peer-to-Peer Cloud Storage Network | Storj |  | [PDF](https://blockchainlab.com/pdf/storj.pdf) |
 | 59 | Stratis — Blockchain Solution | Stratis |  | [PDF](https://blockchainlab.com/pdf/Stratis_Whitepaper.pdf) |
 | 60 | SWISSCOIN — Whitepaper | SWISSCOIN |  | [PDF](https://blockchainlab.com/pdf/SWISSCOIN-Whitepaper.pdf) |
-| 61 | The Tangle | Tangle |  | [PDF](https://blockchainlab.com/pdf/tangle.pdf) · [record](https://blockchainlab.com/research/corpus/papers/iota-tangle) |
-| 62 | Tether: Fiat currencies on the Bitcoin blockchain | Tether |  | [PDF](https://blockchainlab.com/pdf/Tether-White-Paper.pdf) · [record](https://blockchainlab.com/research/corpus/papers/tether) |
+| 61 | Tangle — White Paper | Tangle |  | [PDF](https://blockchainlab.com/pdf/tangle.pdf) |
+| 62 | Tether — Fiat currencies on the Bitcoin blockchain | Tether |  | [PDF](https://blockchainlab.com/pdf/Tether-White-Paper.pdf) |
 | 63 | Uport — A platform for self-sovereign identity. | Uport |  | [PDF](https://blockchainlab.com/pdf/uPort_whitepaper_DRAFT20161020.pdf) |
 | 64 | Blockchain — Opportunities for Health Care | Blockchain |  | [PDF](https://blockchainlab.com/pdf/us-blockchain-opportunities-for-health-care.pdf) |
 | 65 | Veros — White Paper | Veros |  | [PDF](https://blockchainlab.com/pdf/white-paper.pdf) |
 | 66 | Creditbit — WHITE PAPER | Creditbit |  | [PDF](https://blockchainlab.com/pdf/WHITEPAPER-CREDIT2.0_2FINAL.pdf) |
 | 67 | Fraunhofer — White Paper | Fraunhofer |  | [PDF](https://blockchainlab.com/pdf/whitepaper-industrial-data-space-eng.pdf) |
 | 68 | PAR — Productive Asset Record System | PAR |  | [PDF](https://blockchainlab.com/pdf/whitepaper2.pdf) |
-| 69 | Sia: Simple Decentralized Storage | Sia |  | [PDF](https://blockchainlab.com/pdf/whitepaper3.pdf) · [record](https://blockchainlab.com/research/corpus/papers/sia) |
+| 69 | Sia — Simple Decentralized Storage | Sia |  | [PDF](https://blockchainlab.com/pdf/whitepaper3.pdf) |
 | 70 | Fab City — Locally productive, globally connected self-sufcient cities | Fab City |  | [PDF](https://blockchainlab.com/pdf/whitepaper4.pdf) |
 | 71 | Teambrella — A Peer­to­Peer Insurance System | Teambrella |  | [PDF](https://blockchainlab.com/pdf/WhitePaper5.pdf) |
 | 72 | Taas — Token-as-a-Service | Taas |  | [PDF](https://blockchainlab.com/pdf/whitepaper6.pdf) |
